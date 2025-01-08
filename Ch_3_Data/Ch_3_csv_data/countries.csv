@@ -1,0 +1,177 @@
+ID,iso_alpha,country,continent,income_group,life_expectancy,mean_years_of_schooling,cemission_per_cap,under_5_mortality_rate,prop_internet,whr_score,population,gni,gni_per_capita,ggei,pop_cat
+1,ABW,Aruba,North America,High income,,,,,,,106537,,,,Less than 10 million
+2,AFG,Afghanistan,Asia,Low income,61.9824,2.98506999,0.363,58.1,18.4,,40099462,73149074277,1824.190915,,Greater than 10 million
+3,AGO,Angola,Africa,Lower middle income,61.6434,5.417390823,1.03,72.3,36,,34503774,1.89E+11,5465.617791,,Greater than 10 million
+4,ALB,Albania,Europe,Upper middle income,76.4626,11.28645502,2.01,8.52,72.2,53.6,2811666,39731962626,14131.11039,0.565677083,Greater than 10 million
+5,ARE,United Arab Emirates,Asia,High income,78.7104,12.69402981,19.8,7.16,100,64.6,9365145,5.86E+11,62573.59181,0.506516927,Greater than 10 million
+6,ARG,Argentina,South America,Upper middle income,75.3899,11.14726927,3.53,9.4,85.5,59,45808747,9.59E+11,20925.26814,0.484980469,Greater than 10 million
+7,ARM,Armenia,Asia,Upper middle income,72.0431,11.33030033,2.59,11.7,76.5,,2790974,36723618867,13157.9939,0.468229167,Greater than 10 million
+8,AUS,Australia,Oceania,High income,84.5265,12.72681999,13.8,3.5,89.6,71.4,25688079,1.26E+12,49238.43335,0.672988281,Greater than 10 million
+9,AUT,Austria,Europe,High income,81.5797,12.25669003,9.12,3.21,87.5,72.1,8955797,4.80E+11,53618.67138,0.711425781,Greater than 10 million
+10,AZE,Azerbaijan,Asia,Upper middle income,69.3658,10.5429697,3.81,20.1,84.6,,10137750,1.45E+11,14256.74456,0.447604167,Greater than 10 million
+11,BDI,Burundi,Africa,Low income,61.6627,3.129266883,1.08,55.1,9.4,,12551213,9184810850,731.7867086,0.518522135,Greater than 10 million
+12,BEL,Belgium,Europe,High income,81.8787,12.37567997,15.4,3.38,91.5,68.4,11592952,6.06E+11,52293.39977,0.692526042,Greater than 10 million
+13,BEN,Benin,Africa,Lower middle income,59.821,4.304786445,0.654,88.8,25.8,44.1,12996895,44305972160,3408.965923,0.419329427,Greater than 10 million
+14,BFA,Burkina Faso,Africa,Low income,59.2696,2.114962259,0.282,71.5,22,46.4,22100683,46807388280,2117.915916,0.400527344,Greater than 10 million
+15,BGD,Bangladesh,Asia,Lower middle income,72.3811,7.379059792,0.807,27.7,24.8,52.8,169356251,9.27E+11,5472.104781,0.434798177,Greater than 100 million
+16,BGR,Bulgaria,Europe,Upper middle income,71.798,11.41318035,5.23,6.53,70.2,56,6877743,1.59E+11,23078.95595,0.603815104,Greater than 10 million
+17,BHR,Bahrain,Asia,High income,78.7605,11.04658985,14.8,6.69,99.7,61.7,1463265,57794940419,39497.24788,0.39922526,Greater than 10 million
+18,BHS,Bahamas,North America,High income,71.5983,12.64192386,6.87,9.62,87,,407906,12435497489,30486.18429,,Less than 10 million
+19,BIH,Bosnia and Herzegovina,Europe,Upper middle income,75.3003,10.53631973,3.59,5.5,73.2,55.2,3270943,49855434031,15241.91465,,Greater than 10 million
+20,BLR,Belarus,Europe,Upper middle income,72.438,12.14358044,5.99,3.26,85.1,,9340314,1.76E+11,18848.96704,0.506171875,Greater than 10 million
+21,BLZ,Belize,North America,Upper middle income,70.4697,8.847599983,1,12.4,,,400031,2523835493,6309.099778,0.38608724,Less than 10 million
+22,BOL,Bolivia,South America,Lower middle income,63.6304,9.827750206,1.83,25.4,59.9,55.6,12079472,97978894835,8111.190194,0.462233073,Greater than 10 million
+23,BRA,Brazil,South America,Upper middle income,72.7504,8.128813955,2,13.5,81.3,61.1,214326223,3.08E+12,14369.88848,0.542285156,Greater than 100 million
+24,BRB,Barbados,North America,High income,77.5714,9.852700596,3.79,11.7,,,281200,3460543089,12306.341,,Less than 10 million
+25,BRN,Brunei Darussalam,Asia,High income,74.6424,9.18,22.6,11.1,95,,445373,28721899694,64489.53954,,Less than 10 million
+26,BTN,Bhutan,Asia,Lower middle income,71.815,5.170262283,3.34,27.4,53.5,,777486,7337556400,9437.541512,,Less than 10 million
+27,BWA,Botswana,Africa,Upper middle income,61.1409,10.34,4.7,34.8,64,,2588423,41928099934,16198.31841,,Greater than 10 million
+28,CAF,Central African Republic,Africa,Low income,53.8947,4.334,1.08,110,10.4,,5457154,5271930612,966.0586107,0.395722656,Greater than 10 million
+29,CAN,Canada,North America,High income,82.6565,13.83442722,13,4.89,97,70.3,38246108,1.79E+12,46807.98619,0.580325521,Greater than 10 million
+30,CHE,Switzerland,Europe,High income,83.9872,13.85966015,12.4,3.91,94.2,75.1,8703405,5.83E+11,66933.00454,0.781289063,Greater than 10 million
+31,CHL,Chile,South America,High income,78.9435,10.9349663,4.43,6.86,88.3,61.5,19493184,4.79E+11,24563.24486,0.537447917,Greater than 10 million
+32,CHN,China,Asia,Upper middle income,78.2107,7.600118446,7.04,8.09,70.4,57.7,1412360000,2.47E+13,17504.39969,0.528385417,Greater than 100 million
+33,CIV,Cote d'Ivoire,Africa,Lower middle income,58.5983,5.199138977,0.549,77.1,,52.6,27478249,1.43E+11,5217.448516,0.458255208,Greater than 10 million
+34,CMR,Cameroon,Africa,Lower middle income,60.3334,6.15131,0.376,72,37.8,52.4,27198628,98484393578,3620.932408,0.47296224,Greater than 10 million
+35,COD,Democratic Republic of the Congo,Africa,Low income,59.193,7.018696516,0.42,84.5,13.6,,95894118,1.03E+11,1076.098781,,Greater than 10 million
+36,COG,Congo,Africa,Lower middle income,63.5187,6.166,0.669,47.5,,50.8,5835806,16861298108,2889.283521,0.513704427,Greater than 10 million
+37,COL,Colombia,South America,Upper middle income,72.8296,8.862859726,2.14,13.5,69.8,57.1,51516562,7.41E+11,14384.35666,0.494707031,Greater than 10 million
+38,COM,Comoros,Africa,Lower middle income,63.4174,5.078649,0.517,64.8,,,821625,2581598432,3142.064119,0.512799479,Less than 10 million
+39,CPV,Cabo Verde,Africa,Lower middle income,74.0518,6.287719287,1,18.1,64.5,,587925,3662890452,6230.200199,0.521191406,Less than 10 million
+40,CRI,Costa Rica,North America,Upper middle income,77.0232,8.804059982,2.2,8.19,80.5,63.4,5153957,1.03E+11,19974.27358,0.644446615,Greater than 10 million
+41,CUB,Cuba,North America,Upper middle income,73.6829,12.49773438,3.07,4.82,74,,11256372,88687238189,7878.847482,,Greater than 10 million
+42,CYP,Cyprus,Asia,High income,81.2033,12.44017029,5.48,2.22,90.8,62.6,1244188,47513575794,38188.42152,0.612636719,Greater than 10 million
+43,CZE,Czech Republic,Europe,High income,77.7283,12.86931038,9.49,3.21,81.3,69,10505772,4.07E+11,38745.21386,0.584967448,Greater than 10 million
+44,DEU,Germany,Europe,High income,80.6301,14.09096691,9.23,3.24,89.8,73.1,83196078,4.54E+12,54534.21682,0.673977865,Greater than 10 million
+45,DJI,Djibouti,Africa,Lower middle income,62.3049,4.1,0.978,52.9,59,,1105557,5555417230,5024.993944,0.560351563,Greater than 10 million
+46,DNK,Denmark,Europe,High income,81.3753,12.96049023,7.31,3.97,96.5,75.2,5856733,3.54E+11,60364.78595,0.741979167,Greater than 10 million
+47,DOM,Dominican Republic,North America,Upper middle income,72.6146,9.306864107,2.86,27.7,76.9,51.7,11117873,2.00E+11,17989.60037,0.541998698,Greater than 10 million
+48,DZA,Algeria,Africa,Lower middle income,76.3767,8.069284397,3.79,22.2,62.9,54.4,44177969,4.77E+11,10800.22546,,Greater than 10 million
+49,ECU,Ecuador,South America,Upper middle income,73.67,8.817119598,2.32,13.5,64.6,53.5,17797737,1.84E+11,10311.63273,0.504147135,Greater than 10 million
+50,EGY,Egypt,Africa,Lower middle income,70.2207,9.573026174,2.25,19.8,71.9,44.7,109262178,1.28E+12,11731.69056,0.356946615,Greater than 100 million
+51,ERI,Eritrea,Africa,Low income,66.5358,4.8872352,0.16,37.8,,,3620312,6258587822,1728.742667,,Greater than 10 million
+52,ESP,Spain,Europe,High income,83.01,10.60540009,5.35,2.84,93.2,65,47415750,1.82E+12,38353.60164,0.688626302,Greater than 10 million
+53,EST,Estonia,Europe,High income,77.1436,13.54843044,9.39,2.4,89.1,64.5,1330932,50639651729,38048.26372,0.666334635,Greater than 10 million
+54,ETH,Ethiopia,Africa,Low income,64.9748,3.201520681,0.173,50.8,24,45.5,120283026,2.84E+11,2361.069604,0.56280599,Greater than 100 million
+55,FIN,Finland,Europe,High income,82.0381,12.87362003,8.68,1.58,92.2,78.9,5541017,2.74E+11,49452.16672,0.688040365,Greater than 10 million
+56,FJI,Fiji,Oceania,Upper middle income,67.114,10.92154799,3.46,24.8,,,924610,9227710308,9980.110866,0.546998698,Less than 10 million
+57,FRA,France,Europe,High income,82.4988,11.61005974,5.82,3.83,84.8,67.1,67749632,3.11E+12,45937.05273,0.74360026,Greater than 10 million
+58,FSM,Micronesia,Oceania,Lower middle income,70.71,7.804956,0.669,29.3,,,113131,418151854.6,3696.173945,0.437005208,Less than 10 million
+59,GAB,Gabon,Africa,Upper middle income,65.821,9.436,3.79,42.4,62,48.9,2341179,31294386463,13366.93455,0.505846354,Greater than 10 million
+60,GBR,United Kingdom,Europe,High income,80.7422,13.4061203,6.93,4.21,94.8,68,67326569,3.04E+12,45224.76564,0.704231771,Greater than 10 million
+61,GEO,Georgia,Asia,Upper middle income,71.694,12.82221985,2020,9.02,72.5,51.2,3708610,54383681014,14664.16825,0.461184896,Greater than 10 million
+62,GHA,Ghana,Africa,Lower middle income,63.7954,8.329886695,0.713,44.8,58,53.2,32833031,1.89E+11,5744.504017,0.476777344,Greater than 10 million
+63,GIN,Guinea,Africa,Low income,58.8922,2.202125952,0.435,94.3,26,49.7,13531906,33571132143,2480.887182,0.477923177,Greater than 10 million
+64,GMB,Gambia,Africa,Low income,62.083,4.637487411,0.325,55.1,36.5,,2639916,5734445768,2172.207664,,Greater than 10 million
+65,GNB,Guinea-Bissau,Africa,Low income,59.6523,3.583719,0.363,77.1,22.9,,2060721,3932353518,1908.24159,0.431582031,Greater than 10 million
+66,GNQ,Equatorial Guinea,Africa,Upper middle income,60.5943,5.910863,3.77,81,,,1634466,19734476991,12073.95993,0.483639323,Greater than 10 million
+67,GRC,Greece,Europe,High income,80.1106,11.40853024,5.05,4.31,78.1,57.9,10641221,3.09E+11,29002.48545,0.61734375,Greater than 10 million
+68,GRD,Grenada,North America,Upper middle income,74.9362,9.032104,3.59,15.2,56.9,,124610,1680188580,13483.5774,0.444446615,Less than 10 million
+69,GTM,Guatemala,North America,Upper middle income,69.2368,5.681300163,1.23,24.3,50,,17109746,1.49E+11,8723.285317,0.49889974,Greater than 10 million
+70,GUY,Guyana,South America,Upper middle income,65.6734,8.617477,3.79,28.7,,,804567,18074321962,22464.65734,,Less than 10 million
+71,HKG,Hong Kong SAR,Asia,High income,,,10.8,1.97,92.4,53,7413100,,,,Greater than 10 million
+72,HND,Honduras,North America,Lower middle income,70.1229,7.088479996,0.807,16.6,42,,10278345,54454212378,5297.955301,0.441777344,Greater than 10 million
+73,HRV,Croatia,Europe,High income,77.5804,12.19108434,5.51,4.45,78.3,65.1,3899000,1.17E+11,30132.28814,0.6665625,Greater than 10 million
+74,HTI,Haiti,North America,Lower middle income,63.1924,5.554,0.29,61.6,34.5,,11447569,32596961267,2847.500746,0.42156901,Greater than 10 million
+75,HUN,Hungary,Europe,High income,74.5301,12.24958992,6.24,3.99,84.8,60.4,9709891,3.18E+11,32789.01063,0.556985677,Greater than 10 million
+76,IDN,Indonesia,Asia,Lower middle income,67.5703,8.556509972,2.3,23.3,53.7,48.3,273753191,3.14E+12,11466.06836,0.363157552,Greater than 100 million
+77,IND,India,Asia,Lower middle income,67.2398,6.655109195,1.63,33.9,43,42.2,1407563842,9.28E+12,6589.980037,0.394114583,Greater than 100 million
+78,IRL,Ireland,Europe,High income,81.9976,11.58222303,8.82,3.19,92,70.3,5033165,3.83E+11,76168.98443,0.703404948,Greater than 10 million
+79,IRN,Iran,Asia,Lower middle income,73.8749,10.63645314,7.54,13.4,84.1,48.6,87923432,1.14E+12,13000.7117,,Greater than 10 million
+80,IRQ,Iraq,Asia,Upper middle income,70.3779,7.905593489,2.15,25.1,,47.9,43533592,4.34E+11,9977.249073,,Greater than 10 million
+81,ISL,Iceland,Europe,High income,82.6782,13.76716995,12,1.89,99,75.8,372520,20779929195,55782.04981,0.712753906,Less than 10 million
+82,ISR,Israel,Asia,High income,82.255,13.3448664,8.42,3.45,90.1,72,9364000,3.89E+11,41523.74319,0.594446615,Greater than 10 million
+83,ITA,Italy,Europe,High income,82.8502,10.7401104,6.53,2.83,70.5,64.9,59109668,2.53E+12,42839.51441,0.668945313,Greater than 10 million
+84,JAM,Jamaica,North America,Upper middle income,70.5003,9.154628661,2.24,13.8,,54.3,2827695,24981202680,8834.47567,,Greater than 10 million
+85,JOR,Jordan,Asia,Upper middle income,74.2563,10.44668007,2.67,15.3,,40.9,11148278,1.11E+11,9923.714974,0.459029948,Greater than 10 million
+86,JPN,Japan,Asia,High income,84.7839,13.36610034,9.48,2.34,90.2,61.2,125681593,5.31E+12,42274.29134,0.547089844,Greater than 100 million
+87,KAZ,Kazakhstan,Asia,Upper middle income,69.3622,12.34756189,9.77,8.86,85.9,61.7,19000988,4.55E+11,23942.81837,0.491184896,Greater than 10 million
+88,KEN,Kenya,Africa,Lower middle income,61.427,6.652,0.518,38.5,29.5,45.5,53005614,2.37E+11,4473.570344,0.549095052,Greater than 10 million
+89,KHM,Cambodia,Asia,Lower middle income,69.5835,5.088,2.35,25.9,,43.8,16589023,67661600898,4078.697154,0.486451823,Greater than 10 million
+90,KWT,Kuwait,Asia,High income,78.6729,7.328022618,22.2,7.42,99.1,,4250114,2.25E+11,52919.76137,0.396660156,Greater than 10 million
+91,LBN,Lebanon,Asia,Lower middle income,75.0472,8.718636,3.32,7.32,84.1,26.3,5592631,53274460363,9525.831467,0.388808594,Greater than 10 million
+92,LBR,Liberia,Africa,Low income,60.7472,5.082,0.247,67.1,25.6,,5193416,6692975140,1288.74235,,Greater than 10 million
+93,LBY,Libya,Africa,Upper middle income,71.9112,7.599985,3.66,11.2,,,6735277,1.03E+11,15335.712,,Greater than 10 million
+94,LKA,Sri Lanka,Asia,Lower middle income,76.3991,10.82730007,1.69,6.97,35,47.8,22156000,2.79E+11,12578.22055,0.480208333,Greater than 10 million
+95,LSO,Lesotho,Africa,Lower middle income,53.062,6.010184707,0.335,75.7,43,,2281454,6160919939,2700.435748,,Greater than 10 million
+96,LTU,Lithuania,Europe,High income,73.7201,13.49810028,7.2,3.86,83.1,63.9,2800839,1.06E+11,37931.30359,0.668411458,Greater than 10 million
+97,LUX,Luxembourg,Europe,High income,82.6287,13.01519217,12.6,2.31,98.8,,640064,54181081355,84649.47467,0.69563151,Less than 10 million
+98,LVA,Latvia,Europe,High income,73.5786,13.25271988,7.35,3.64,88.9,62.3,1884490,61817366874,32803.23423,0.697122396,Greater than 10 million
+99,MAC,Macao SAR,Asia,High income,,,,,88.1,,686607,,,,Less than 10 million
+100,MAR,Morocco,Africa,Lower middle income,74.0419,5.916,1.8,20.6,84.1,48,37076584,2.71E+11,7302.81917,0.392955729,Greater than 10 million
+101,MDA,Moldova,Europe,Upper middle income,68.8459,11.82159042,3.79,14.9,,58.1,2615199,38901953083,14875.33189,0.531210938,Greater than 10 million
+102,MDG,Madagascar,Africa,Low income,64.4853,5.120468534,0.193,48.7,,,28915653,42896977963,1483.520983,0.47828776,Greater than 10 million
+103,MDV,Maldives,Asia,Upper middle income,79.9182,7.322,3.75,7.87,62.9,,521457,8055534420,15448.12788,0.486875,Less than 10 million
+104,MEX,Mexico,North America,Upper middle income,70.2127,9.221050262,3.43,12.3,72,59.6,126705138,2.27E+12,17896.29498,0.499648438,Greater than 100 million
+105,MLI,Mali,Africa,Low income,58.9414,2.31,0.325,92.4,27.4,42.7,21904983,46715211694,2132.629443,0.42796875,Greater than 10 million
+106,MLT,Malta,Europe,High income,83.7769,12.21026039,16.6,6.61,86.9,61.6,518536,20162990396,38884.45623,0.671608073,Less than 10 million
+107,MMR,Myanmar,Asia,Lower middle income,65.6716,6.37680006,0.918,43.6,35.1,44.3,53798084,2.07E+11,3850.524234,0.435722656,Greater than 10 million
+108,MNE,Montenegro,Europe,Upper middle income,76.3426,12.17648306,5.35,2.38,77.6,57.2,619211,12903614986,20838.80129,0.530839844,Less than 10 million
+109,MNG,Mongolia,Asia,Lower middle income,70.9754,9.423700333,13.1,15.1,62.5,60.1,3347782,35447070138,10588.22532,0.430983073,Greater than 10 million
+110,MOZ,Mozambique,Africa,Low income,59.3247,3.197641838,0.42,68.1,16.5,,32077072,38430703521,1198.073924,0.424375,Greater than 10 million
+111,MRT,Mauritania,Africa,Lower middle income,64.3636,4.918804891,1.04,72.1,40.8,,4614974,23422403898,5075.305711,0.384186198,Greater than 10 million
+112,MUS,Mauritius,Africa,Upper middle income,73.5552,10.42791048,4.5,14.8,64.9,60.1,1266060,27885409949,22025.34631,0.424016927,Greater than 10 million
+113,MWI,Malawi,Africa,Low income,62.9044,4.489695385,0.128,45.1,,,19889742,29151103289,1465.635064,0.486731771,Greater than 10 million
+114,MYS,Malaysia,Asia,Upper middle income,74.8839,10.64505959,7.32,7.38,89.6,60.1,33573874,8.95E+11,26657.94355,0.415494792,Greater than 10 million
+115,NAM,Namibia,Africa,Upper middle income,59.269,7.192013277,3.65,36.8,41,44.5,2530151,21844069923,8633.504452,,Greater than 10 million
+116,NCL,New Caledonia,Oceania,High income,,,,,,,271030,,,,Less than 10 million
+117,NER,Niger,Africa,Low income,61.5763,2.116717299,0.42,77.7,,,25252722,31310015052,1239.866936,0.43358724,Greater than 10 million
+118,NGA,Nigeria,Africa,Lower middle income,52.676,7.181074153,0.637,114,35.5,55,213401323,1.02E+12,4790.284425,0.453873698,Greater than 100 million
+119,NIC,Nicaragua,North America,Lower middle income,73.8368,7.144,0.869,17.3,45.2,62.9,6850540,38532873514,5624.793595,0.449785156,Greater than 10 million
+120,NLD,Netherlands,Europe,High income,81.6873,12.58162975,8.71,3.53,91.3,75,17533044,9.81E+11,55979.411,0.685481771,Greater than 10 million
+121,NOR,Norway,Europe,High income,83.2339,13.00362968,8.76,2.36,97,72.9,5408320,3.50E+11,64660.10622,0.747070313,Greater than 10 million
+122,NPL,Nepal,Asia,Lower middle income,68.4495,5.121792742,0.849,29.8,37.7,59.8,30034989,1.16E+11,3877.315444,0.52297526,Greater than 10 million
+123,NZL,New Zealand,Oceania,High income,82.4513,12.94468975,7.66,5.54,91.5,72.6,5122600,2.26E+11,44057.31394,0.646705729,Greater than 10 million
+124,OMN,Oman,Asia,High income,72.5406,11.65404034,12.9,10.4,95.2,,4520471,1.22E+11,27054.32505,0.262050781,Greater than 10 million
+125,PAK,Pakistan,Asia,Lower middle income,66.0979,4.536330223,1.01,66.6,25,46.2,231402117,1.07E+12,4623.70543,0.342467448,Greater than 100 million
+126,PAN,Panama,North America,High income,76.2233,10.54059029,3.71,14.6,64.3,,4351267,1.17E+11,26956.83707,0.53639974,Greater than 10 million
+127,PER,Peru,South America,Upper middle income,72.3769,9.885518863,1.73,13.5,65.3,49.9,33715471,4.13E+11,12245.89366,0.51139974,Greater than 10 million
+128,PHL,Philippines,Asia,Lower middle income,69.2664,8.969099998,1.5,27.2,49.8,50.8,113880328,1.02E+12,8920.428468,0.465286458,Greater than 100 million
+129,PNG,Papua New Guinea,Oceania,Lower middle income,65.3506,4.74,1.07,45.2,,,9949437,39883547696,4008.623573,,Greater than 10 million
+130,POL,Poland,Europe,High income,76.4572,13.1647501,7.47,4.13,83.2,61.4,37747124,1.25E+12,33033.96081,0.559342448,Greater than 10 million
+131,PRI,Puerto Rico,North America,High income,,,,,,,3263584,,,,Greater than 10 million
+132,PRT,Portugal,Europe,High income,81.0443,9.575940132,4.65,3.46,78.3,57.7,10325147,3.42E+11,33154.53343,0.701009115,Greater than 10 million
+133,PRY,Paraguay,South America,Upper middle income,70.2617,8.861840248,1.84,19.4,74,55,6703799,82787131138,12349.286,0.484980469,Greater than 10 million
+134,PYF,French Polynesia,Oceania,High income,,,,,,,304032,,,,Less than 10 million
+135,QAT,Qatar,Asia,High income,79.2716,9.99601145,25.8,6.49,99.7,,2688235,2.34E+11,87134.13469,0.433326823,Greater than 10 million
+136,ROU,Romania,Europe,High income,74.1847,11.27511978,4.17,6.87,78.5,67.8,19119880,5.74E+11,30027.29131,0.6234375,Greater than 10 million
+137,RUS,Russian Federation,Europe,Upper middle income,69.419,12.77428805,9.34,6.52,85,55,143449286,3.90E+12,27166.30891,0.414003906,Greater than 100 million
+138,RWA,Rwanda,Africa,Low income,66.0722,4.425292358,0.165,32,26.5,,13461888,29748015512,2209.795202,0.558196615,Greater than 10 million
+139,SAU,Saudi Arabia,Asia,High income,76.936,11.31052971,18.3,6.49,97.9,65.6,35950396,1.66E+12,46111.55135,0.314029948,Greater than 10 million
+140,SDN,Sudan,Africa,Low income,65.2667,3.82,0.908,57.8,28.4,,45657202,1.63E+11,3575.19084,,Greater than 10 million
+141,SEN,Senegal,Africa,Lower middle income,67.0926,2.937938258,0.938,40.3,42.6,47.6,16876720,56441014263,3344.311825,0.404479167,Greater than 10 million
+142,SGP,Singapore,Asia,High income,82.7545,11.92488003,24.2,2.61,92,,5453566,4.96E+11,90918.64471,0.514121094,Greater than 10 million
+143,SLB,Solomon Islands,Oceania,Lower middle income,70.3477,5.711848,0.335,19,,,707851,1756540299,2481.511362,0.451757813,Less than 10 million
+144,SLE,Sierra Leone,Africa,Low income,60.0624,4.576081285,0.16,99,18,,8420641,13654175305,1621.512579,,Greater than 10 million
+145,SLV,El Salvador,North America,Lower middle income,70.7479,7.150929928,1.36,12.6,54.6,54.6,6314167,52380219799,8295.665889,0.515253906,Greater than 10 million
+146,SOM,Somalia,Africa,Low income,55.2803,,0.42,117,,,17065581,17372212800,1017.96785,,Greater than 10 million
+147,SRB,Serbia,Europe,Upper middle income,74.1923,11.36987019,5.29,5.16,78.4,60.4,6834326,1.31E+11,19123.02747,0.495416667,Greater than 10 million
+148,STP,Sao Tome and Principe,Africa,Lower middle income,67.5912,6.215599435,1.07,29.3,33,,223107,897191516.3,4021.350815,0.423815104,Less than 10 million
+149,SUR,Suriname,South America,Upper middle income,70.2743,9.77680063,3.51,17.9,70.1,,612985,7767868719,12672.20033,,Less than 10 million
+150,SVK,Slovak Republic,Europe,High income,74.9101,12.91141987,6.86,5.27,89.9,65.2,5447247,1.67E+11,30690.48552,0.605761719,Greater than 10 million
+151,SVN,Slovenia,Europe,High income,80.6904,12.80368042,8.9,2.07,86.6,64.6,2108079,83787749822,39746.01987,0.639414063,Greater than 10 million
+152,SWE,Sweden,Europe,High income,82.9833,12.60972023,5.94,2.53,94.5,73.1,10415811,5.68E+11,54489.37401,0.79938151,Greater than 10 million
+153,SYR,Syrian Arab Republic,Asia,Low income,72.0627,5.1,1.07,14.8,35.8,,21324367,89390336774,4191.933893,,Greater than 10 million
+154,TCD,Chad,Africa,Low income,52.5254,2.57377421,0.247,114,10.4,,17179740,23436075900,1364.169417,0.379361979,Greater than 10 million
+155,TGO,Togo,Africa,Low income,61.6194,5.016807367,0.835,66.2,24,,8644829,18730051299,2166.619062,0.471822917,Greater than 10 million
+156,THA,Thailand,Asia,Upper middle income,78.7154,8.697119713,3.84,8.49,77.8,58.9,71601103,1.22E+12,17030.15352,0.494505208,Greater than 10 million
+157,TJK,Tajikistan,Asia,Lower middle income,71.5942,11.3333938,1.35,32.5,,53.7,9750064,44340779719,4547.742427,0.376959635,Greater than 10 million
+158,TKM,Turkmenistan,Asia,Upper middle income,69.2644,11.26139,3.59,44.4,,,6341855,82575489697,13020.7155,0.318248698,Greater than 10 million
+159,TLS,Timor-Leste,Asia,Lower middle income,67.7369,5.43679,0.957,42.7,29.1,,1320942,5892549793,4460.869435,0.516028646,Greater than 10 million
+160,TON,Tonga,Oceania,Upper middle income,70.9857,11.392594,1,14.8,,,106017,723251287,6822.03125,0.45124349,Less than 10 million
+161,TTO,Trinidad and Tobago,North America,High income,72.9709,11.61062419,17.3,17.5,,,1525663,35688340691,23392.02084,,Greater than 10 million
+162,TUN,Tunisia,Africa,Lower middle income,73.7719,7.431598614,2.08,15.9,71.9,47.3,12262946,1.26E+11,10257.54477,0.402311198,Greater than 10 million
+163,TUR,Turkiye,Asia,Upper middle income,76.0324,8.63313961,4.78,9.73,77.7,48.6,84775404,2.63E+12,31032.80106,,Greater than 10 million
+164,TZA,Tanzania,Africa,Lower middle income,66.2007,6.37289871,0.286,49.5,22,37.9,63588334,1.69E+11,2664.329096,0.483209635,Greater than 10 million
+165,UGA,Uganda,Africa,Low income,62.7048,5.730941566,0.168,43,19.9,46.4,45853778,1.00E+11,2181.43651,,Greater than 10 million
+166,UKR,Ukraine,Europe,Lower middle income,71.624,11.13142043,4.33,8.18,75,52.7,43792855,5.80E+11,13255.50977,0.480970052,Greater than 10 million
+167,URY,Uruguay,South America,High income,75.4356,8.982549667,2.95,7.2,86.1,63.1,3426260,72872716969,21268.88122,0.65766276,Greater than 10 million
+168,USA,United States,North America,High income,77.1982,13.68342972,15.5,6.62,90.9,70.3,331893745,2.15E+13,64765.21509,0.566848958,Greater than 100 million
+169,UZB,Uzbekistan,Asia,Lower middle income,70.8616,11.89558983,2.04,20.3,71.1,58.4,34915100,2.76E+11,7916.785725,0.364277344,Greater than 10 million
+170,VEN,Venezuela,South America,,70.5536,11.10727736,0.634,25.5,,45.7,28199867,1.36E+11,4810.882621,,Greater than 10 million
+171,VNM,Vietnam,Asia,Lower middle income,73.6181,8.370280266,2.11,20,70.3,54.6,97468029,7.67E+11,7867.371345,0.499075521,Greater than 10 million
+172,VUT,Vanuatu,Oceania,Lower middle income,70.449,7.064846,0.289,24.9,,,319137,984669012.3,3085.411633,0.476523438,Less than 10 million
+173,WSM,Samoa,Oceania,Lower middle income,72.7675,11.4038,1.02,14.9,,,218764,1161189112,5307.953374,,Less than 10 million
+174,ZAF,South Africa,Africa,Upper middle income,62.341,11.37316036,5.14,32.1,70,49.5,59392255,7.69E+11,12948.37325,0.372447917,Greater than 10 million
+175,ZMB,Zambia,Africa,Low income,61.2234,7.187091494,0.391,54.5,19.8,48.4,19473125,62659993403,3217.767739,0.438196615,Greater than 10 million
+176,ZWE,Zimbabwe,Africa,Lower middle income,59.2531,8.710908501,0.741,43.1,29.3,31.6,15993524,60933521699,3809.887158,,Greater than 10 million
